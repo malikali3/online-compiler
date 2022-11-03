@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+textarea{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 300px;
+    height: 100px;
+
+}
+iframe{
+    background-color: aquamarine;
+    width: 50%;
+    height: 200px;
+    margin: 20px;
+}
